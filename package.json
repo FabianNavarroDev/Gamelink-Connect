@@ -1,9 +1,9 @@
 {
   "name": "gamelink-connect-git",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "http-server gamelink"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   "homepage": "https://github.com/FabianNavarroDev/Gamelink-Connect#readme",
   "description": "",
   "dependencies": {
-    "http-server": "^14.1.1"
+    "express": "^4.18.3"
   }
 }
