@@ -1,0 +1,23 @@
+{
+  "name": "gamelink-connect-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "serve gamelink"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianNavarroDev/Gamelink-Connect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianNavarroDev/Gamelink-Connect/issues"
+  },
+  "homepage": "https://github.com/FabianNavarroDev/Gamelink-Connect#readme",
+  "description": "",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
